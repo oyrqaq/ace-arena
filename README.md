@@ -10,6 +10,8 @@ Real-time multiplayer game platform built with React, Node.js, and Socket.IO.
 
 ## DEMO
 
+![Demo](./demo.gif)
+
 ## Features
 
 - **Real-time Multiplayer** - WebSocket-based instant communication
